@@ -19,6 +19,11 @@ This project contains different Modules like,
 - Bill Module . 
 - Dairy Products Module .
 
+```bash
+video of the project
+```
+![Video](Screen_shots/video.mp4)
+
 It Contains a Home page which has quick links to Home, Services,Gallery,About Dairy.
 ----------------------------------------------------------------------------------------------------------------------------------------
 ```bash
