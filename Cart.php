@@ -130,7 +130,7 @@
             <td> <input type="text" id="saraki_pend" name="quantity3" value="0" size="10" /> </td>
           </tr>
           <tr>
-            <td> <img src="images/sengdanapend.jpeg" alt="sengdana_pend"></td>
+            <td> <img src="images/shengdanapend.jpeg" alt="sengdana_pend"></td>
             <th> Sengdana Pend </th>
             <td><i class="fas fa-rupee-sign"></i> 2000 </td>
             <td> <label for="id_4"> <input type="Checkbox" name="id_4" value="205"/> 207 </label> </td>
